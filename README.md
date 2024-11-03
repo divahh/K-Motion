@@ -1,5 +1,5 @@
 # K-MOTION
-**Aplikasi ini** tercipta dari ide saya sendiri. Aplikasi ini merupakan dokumentasi dance dari yang pernah saya cover. Terutama untuk dance cover k-pop.
+**Aplikasi ini** tercipta dari ide saya sendiri dan merupakan dokumentasi dari dance yang pernah saya cover terutama untuk dance cover k-pop. Logo aplikasi ini merupakan logo yang saya buat sendiri^^
 
 > [!IMPORTANT]
 > Aplikasi ini telah digunakan untuk submission dicoding.
