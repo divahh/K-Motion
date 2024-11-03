@@ -1,0 +1,3 @@
+<resources>
+    <style name="Base.Theme.MyRecyclerView" parent="Theme.Material3.DayNight"/>
+</resources>

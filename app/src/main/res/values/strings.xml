@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">My K-Motion</string>
+
+    <string name="videos_title">Judul Video</string>
+    <string name="description">Deskripsi</string>
+    <string name="splash_name">My K-Motion</string>
+    <string name="about_title">Halo!</string>
+    <string name="btn_share">SHARE</string>
+    <string name="profile">Diva\'s Foto Profile</string>
+    <string name="owner_name">Diva Halimah Hasan</string>
+    <string name="owner_email">Email: divahalimahh@gmail.com</string>
+    <string name="owner_project">Proyek Terbaru:</string>
+    <string name="owner_desc">Saya sedang mengembangkan aplikasi \'My K-Motion\' yang bertujuan untuk mendata video-video cover dance favorit yang telah saya cover.</string>
+    <string name="owner_study">Pendidikan:</string>
+    <string name="owner_prodi">Teknik Informatika</string>
+    <string name="owner_bangkit">Path di Bangkit:</string>
+    <string name="path">Nama Path</string>
+    <string name="year">Tahun</string>
+    <string name="cc_path">Cloud Computing Path</string>
+    <string name="year1">2023</string>
+    <string name="md_path">Mobile Development Path</string>
+    <string name="year2">2024 (ongoing)</string>
+    <string name="detail_video">Detail Video</string>
+    <string name="logo">Logo</string>
+    <string name="video">Video</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Red Velvet - Cosmic</item>
+        <item>Red Velvet - Chill Kill</item>
+        <item>Zerobaseone - Feel The Pop</item>
+        <item>Karina Aespa - Up</item>
+        <item>MEOVV - MEOW</item>
+        <item>TXT - Deja Vu</item>
+        <item>TXT - See You There Tomorrow</item>
+        <item>Taeyong NCT - Tap</item>
+        <item>Le Sserafim - Easy</item>
+        <item>Zerobaseone - Sunday Ride</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lagu "Cosmic" oleh Red Velvet menampilkan perpaduan unik antara melodi yang lembut dan koreografi yang penuh emosi. Dalam cover dance ini, para penari dengan elegan membawakan gerakan yang halus, menciptakan suasana mistis yang memikat. Lagu ini bercerita tentang pertemuan dengan seseorang yang misterius yang membawa harapan dan kebahagiaan baru. Setiap gerakan tarian secara visual menyampaikan perasaan hangat dan kagum saat terhubung dengan seseorang yang mengisi kekosongan. Koreografi ini menekankan fluiditas gerakan yang bersatu dengan alunan musik, memperlihatkan harmoni antara tarian dan perasaan mendalam yang disampaikan oleh lirik.</item>
+        <item>"Chill Kill" membawa atmosfer yang berbeda dari biasanya, penuh dengan intensitas misteri yang tercermin dalam gerakan dinamis para penari. Koreografi cover ini diisi dengan perubahan posisi yang cepat dan formasi yang memikat mata. Setiap gerakan tidak hanya mencerminkan kekuatan fisik, tetapi juga membawa nuansa emosional yang lebih gelap dan kuat. Dalam cover ini, transisi antara gerakan halus dan tiba-tiba menambah elemen kejutan dan ketegangan, membuat penampilan semakin dramatis dan penuh energi. Suasana tegang dan misterius dari lagu ini sangat terlihat dalam setiap aspek tarian, menciptakan harmoni yang kuat antara musik dan gerakan.</item>
+        <item>Cover dance "Feel The Pop" dari Zerobaseone benar-benar menggambarkan energi yang ceria dan optimis. Dengan koreografi yang penuh dengan gerakan cepat dan sinkronisasi yang sempurna, tarian ini menyatu dengan irama pop yang ringan dan penuh keceriaan. Setiap gerakan mencerminkan semangat dan kegembiraan, dengan penari yang memancarkan aura positif dan rasa bahagia. Penampilan ini tidak hanya menonjolkan keahlian teknis dalam gerakan, tetapi juga kemampuan untuk menyampaikan pesan kebahagiaan melalui tarian yang penuh semangat. Koreografi ini benar-benar hidup dan mencerminkan semangat bebas yang dibawa oleh lagu tersebut.</item>
+        <item>Dalam cover dance "Up", Karina menampilkan perpaduan sempurna antara kekuatan dan keanggunan. Gerakannya yang halus namun kuat mengikuti ritme lagu yang catchy, menciptakan harmoni yang indah antara musik dan tarian. Koreografi ini disusun dengan gerakan-gerakan yang seolah mengalir namun memiliki intensitas, mencerminkan kepribadian Karina yang memukau di atas panggung. Penampilannya tidak hanya menonjolkan keahlian teknis dalam tarian, tetapi juga karisma pribadi yang menambah daya tarik dalam setiap gerakannya. "Up" menjadi sebuah karya seni tarian yang memikat, dengan elemen-elemen lembut yang tetap terasa penuh kekuatan.</item>
+        <item>Tarian dalam cover "MEOW" oleh MEOVV dipenuhi dengan energi yang playful dan ekspresi yang kuat. Koreografinya menampilkan gerakan yang tidak hanya dinamis tetapi juga penuh karakter, mencerminkan suasana riang dan ceria. Setiap gerakan seolah bercerita, membawa penonton ke dalam dunia yang penuh semangat dan kegembiraan. Penari dengan sempurna menangkap esensi dari lagu ini, di mana gerakan tubuh yang ekspresif dan interaksi antar-penari menciptakan suasana yang benar-benar menghibur. Koreografi ini adalah contoh sempurna dari bagaimana tarian bisa memancarkan energi positif dan perasaan yang menyenangkan.</item>
+        <item>Cover dance "Deja Vu" oleh TXT merupakan penampilan yang sangat menonjolkan sinkronisasi yang presisi dan detail yang rumit dalam setiap gerakan. Koreografi ini menggabungkan gerakan halus dengan transisi yang cepat, menciptakan dinamika yang menarik antara keanggunan dan kekuatan. Setiap anggota grup menunjukkan kesatuan dalam gerakan, menjadikan setiap formasi dan perubahan posisi begitu mulus dan penuh makna. Melalui tarian ini, nuansa misteri dan intensitas emosi dari lagu "Deja Vu" terwujud dengan sangat baik, membuat penonton terbawa dalam cerita yang diceritakan melalui setiap gerakan.</item>
+        <item>"See You There Tomorrow" adalah cover dance yang memikat dengan koreografi penuh emosi dan sentuhan dramatis. Gerakan tarian yang halus namun kuat membawa nuansa melankolis dari lagu ini ke level yang lebih dalam, menciptakan koneksi emosional antara penari dan penonton. Setiap gerakan memiliki intensi yang mendalam, mencerminkan perasaan yang terkandung dalam lagu, yakni harapan dan kerinduan akan masa depan yang tidak pasti. Koreografi ini berhasil menghidupkan perasaan tersebut, dengan transisi yang lembut namun penuh makna, memberikan kesan mendalam yang sulit dilupakan.</item>
+        <item>Cover dance "Tap" oleh Taeyong NCT menonjolkan gaya tarian yang penuh dengan kekuatan dan energi hip-hop yang kuat. Koreografi ini tidak hanya menuntut kecepatan dan ketepatan, tetapi juga stamina dan kekuatan fisik yang luar biasa. Setiap gerakan mencerminkan intensitas dan ritme yang cepat, di mana penari harus mampu mengikuti perubahan beat dengan presisi tinggi. Koreografi ini adalah paduan sempurna antara teknikalitas dan keahlian artistik, menciptakan penampilan yang eksplosif dan memukau. Taeyong berhasil membawa karisma pribadi yang kuat dalam setiap gerakannya, membuat penampilan ini benar-benar memikat.</item>
+        <item>Dalam cover dance "Easy", Le Sserafim membawa tarian yang minimalis namun penuh dengan kedalaman emosional. Koreografi ini lebih menekankan pada kehalusan gerakan dan penggunaan ruang yang cerdas, menciptakan suasana yang santai namun tetap penuh arti. Dengan gerakan yang sederhana namun tepat, tarian ini berhasil menyampaikan pesan keanggunan dan kontrol diri. Penari dengan lihai menggabungkan gerakan yang halus dengan ekspresi yang kuat, menciptakan koreografi yang tampak mudah namun memerlukan keahlian yang mendalam. "Easy" berhasil menciptakan suasana yang tenang dan reflektif, sangat sesuai dengan alur musiknya.</item>
+        <item>"Sunday Ride" adalah cover dance yang membawa penonton ke dalam suasana yang kasual dan menyenangkan. Koreografinya ringan, dengan gerakan yang lebih natural dan bebas, mencerminkan vibe lagu yang ceria dan santai. Penari menunjukkan gerakan yang harmonis namun tidak terlalu teknis, memberikan perasaan relaksasi yang sejalan dengan musiknya. Suasana santai ini tidak mengurangi kesempurnaan dari penampilan mereka, namun justru menambah daya tarik tersendiri. Cover ini adalah representasi yang sempurna dari bagaimana tarian bisa menyatu dengan musik dalam cara yang menyenangkan dan tanpa beban.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/cosmic</item>
+        <item>@drawable/chillkill</item>
+        <item>@drawable/feelthepop</item>
+        <item>@drawable/up</item>
+        <item>@drawable/meow</item>
+        <item>@drawable/dejavu</item>
+        <item>@drawable/seeutheretmr</item>
+        <item>@drawable/tap</item>
+        <item>@drawable/easy</item>
+        <item>@drawable/sundayride</item>
+    </integer-array>
+
+    <string-array name="data_album">
+        <item>COSMIC (Mini Album ke-7)</item>
+        <item>CHILL KILL (Album ke-3)</item>
+        <item>You Had Me at Hello (Mini Album ke-3)</item>
+        <item>Belum Rilis</item>
+        <item>MEOW (Single ke-1)</item>
+        <item>Minisode 3: Tomorrow (Mini Album ke-6)</item>
+        <item>Minisode 3: Tomorrow (Mini Album ke-6)</item>
+        <item>TAP (Mini Album ke-2)</item>
+        <item>EASY (Mini Album ke-3)</item>
+        <item>You Had Me at Hello (Mini Album ke-3)</item>
+    </string-array>
+
+    <string-array name="data_release_year">
+        <item>2024</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>-</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+    </string-array>
+
+    <string-array name="data_agency">
+        <item>SM Entertainment</item>
+        <item>SM Entertainment</item>
+        <item>Wake One Entertainment</item>
+        <item>SM Entertainment</item>
+        <item>The Black Label</item>
+        <item>BigHit Entertainment</item>
+        <item>BigHit Entertainment</item>
+        <item>SM Entertainment</item>
+        <item>HYBE Entertainment</item>
+        <item>Wake One Entertainment</item>
+    </string-array>
+</resources>
